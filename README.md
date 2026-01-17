@@ -4,7 +4,7 @@ Download SEC 10-Q and 10-K filings and convert them to text format for analysis.
 
 ## Requirements
 - Python 3.7 or higher
-- Install dependencies: `pip install requests beautifulsoup4`
+- Install dependencies: `pip install requests beautifulsoup4 lxml`
 
 ## Scripts Included
 
