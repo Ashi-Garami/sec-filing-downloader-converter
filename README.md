@@ -20,8 +20,6 @@ python download_filings.py
 - Downloads 3 most recent 10-K filings
 - Creates separate folders: `TICKER_10-Q_Filings` and `TICKER_10-K_Filings`
 
-**IMPORTANT:** Before using, replace `"YourName Contact@example.com"` with your actual name and email in the script. The SEC requires this to identify who is accessing their system.
-
 ### 2. convert_to_text.py
 Converts downloaded HTML files to plain text format for upload to NotebookLM or other analysis tools.
 
